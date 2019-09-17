@@ -10,4 +10,5 @@ January 2019 - April 2019
 3) pyserial.py        : scripts to read analog data of eog electrode from arduino
 4) save.txt           : user data saved here if he want to save after typing
 5) 1.txt              : processed data genrated by pyserial.py
+
 ![eog electrodes](eog.jpg)
